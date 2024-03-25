@@ -142,4 +142,4 @@ Este  Dataset fue brindado por el docente del curso el cual nos brinda datos sob
 - A.	Tabla Homicidios_hechos
 En el dataset relacionado con los homicidios realizamos el siguiente proceso ETL.
 
-![Homicidios_hechos](/images/transformacion_1.png/)
+![Homicidios_hechos](/images/pruebaaaa.png/)
